@@ -1,0 +1,7 @@
+C:\Proyectos\C#\list_with_coma\list_with_coma\bin\Debug\list_with_coma.exe.config
+C:\Proyectos\C#\list_with_coma\list_with_coma\bin\Debug\list_with_coma.exe
+C:\Proyectos\C#\list_with_coma\list_with_coma\bin\Debug\list_with_coma.pdb
+C:\Proyectos\C#\list_with_coma\list_with_coma\obj\Debug\list_with_coma.csproj.AssemblyReference.cache
+C:\Proyectos\C#\list_with_coma\list_with_coma\obj\Debug\list_with_coma.csproj.CoreCompileInputs.cache
+C:\Proyectos\C#\list_with_coma\list_with_coma\obj\Debug\list_with_coma.exe
+C:\Proyectos\C#\list_with_coma\list_with_coma\obj\Debug\list_with_coma.pdb
